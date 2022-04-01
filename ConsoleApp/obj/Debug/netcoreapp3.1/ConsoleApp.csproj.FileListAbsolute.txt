@@ -1,0 +1,16 @@
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.AssemblyReference.cache
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfoInputs.cache
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfo.cs
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.deps.json
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.json
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.dev.json
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.dll
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.pdb
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp3.1/Models.dll
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/bin/Debug/netcoreapp3.1/Models.pdb
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.CopyComplete
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.dll
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.pdb
+/Users/sunaljabili/Projects/ConsoleApp/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+/Users/sunaljabili/Projects/ConsoleApp/Models/bin/Debug/netcoreapp3.1/Models.deps.json
+/Users/sunaljabili/Projects/ConsoleApp/Models/bin/Debug/netcoreapp3.1/Models.dll
+/Users/sunaljabili/Projects/ConsoleApp/Models/bin/Debug/netcoreapp3.1/Models.pdb
+/Users/sunaljabili/Projects/ConsoleApp/Models/obj/Debug/netcoreapp3.1/Models.csproj.AssemblyReference.cache
+/Users/sunaljabili/Projects/ConsoleApp/Models/obj/Debug/netcoreapp3.1/Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunaljabili/Projects/ConsoleApp/Models/obj/Debug/netcoreapp3.1/Models.AssemblyInfoInputs.cache
+/Users/sunaljabili/Projects/ConsoleApp/Models/obj/Debug/netcoreapp3.1/Models.AssemblyInfo.cs
+/Users/sunaljabili/Projects/ConsoleApp/Models/obj/Debug/netcoreapp3.1/Models.csproj.CoreCompileInputs.cache
+/Users/sunaljabili/Projects/ConsoleApp/Models/obj/Debug/netcoreapp3.1/Models.dll
+/Users/sunaljabili/Projects/ConsoleApp/Models/obj/Debug/netcoreapp3.1/Models.pdb

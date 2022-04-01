@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{49A25239-1862-456C-B0E7-1C621AA3AEA6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Library.cs">
+    <Files>
+      <File FileName="ConsoleApp/Program.cs" Line="10" Column="10" />
+      <File FileName="Models/Product.cs" Line="7" Column="1" />
+      <File FileName="Models/Book.cs" Line="13" Column="102" />
+      <File FileName="Models/Journal.cs" Line="5" Column="3" />
+      <File FileName="Models/Library.cs" Line="7" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApp" expanded="True">
+            <Node name="ConsoleApp" expanded="True" />
+            <Node name="Models" expanded="True">
+              <Node name="Library.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Models FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
